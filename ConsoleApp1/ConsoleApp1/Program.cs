@@ -13,6 +13,7 @@ namespace ConsoleApp1
         static void Kek()
         {
             Console.WriteLine("Highjacked branch");
+            Console.WriteLine("Hey dude");
         }
     }
 }
