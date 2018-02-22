@@ -10,5 +10,10 @@ namespace ConsoleApp1
             Console.WriteLine("my name is jackson");
             Console.WriteLine("Hey dude what are you up to ? ");
         }
+
+        static void Kek()
+        {
+            Console.WriteLine("Highjacked branch");
+        }
     }
 }
