@@ -9,5 +9,10 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("my name is jackson");
         }
+
+        static void Kek()
+        {
+            Console.WriteLine("Highjacked branch");
+        }
     }
 }
